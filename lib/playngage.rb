@@ -1,5 +1,12 @@
 require "playngage/version"
 
 module Playngage
-  # Your code goes here...
+
+  class Client
+
+    def login
+    end
+
+  end
+
 end
